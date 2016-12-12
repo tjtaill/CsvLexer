@@ -1,0 +1,4 @@
+person,quote
+shakespear,"""to be or not to be that is the question"""
+descarte,"""cogito ergo sum"""
+lemaitre,"""a day without yesterday"""

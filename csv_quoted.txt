@@ -1,0 +1,4 @@
+company,stock price
+Oracle,"36,0"
+Morgan Stanley,"39,0"
+Autodesk,"42,0"
